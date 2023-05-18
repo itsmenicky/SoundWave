@@ -2,7 +2,7 @@
 <p align='center'>A python program that downloads and plays music from youtube...</h2>
 
 <p align='center'>
-<img border-radius=10px src='https://github.com/itsmenicky/SoundWave/blob/main/img/imagem_2023-04-03_151717404.png'>
+<img border-radius=10px src='https://github.com/itsmenicky/SoundWave/blob/main/img/soundwave interface.png'>
 </p>
 </br>
 
