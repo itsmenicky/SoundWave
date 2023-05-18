@@ -17,5 +17,5 @@ As you use the program, errors may occur when downloading the video...this happe
 
 ### Link for download
 
-<Coming soon...>
+Coming soon...
 
