@@ -17,5 +17,5 @@ As you use the program, errors may occur when downloading the video...this happe
 
 ### Link for download
 
-https://drive.google.com/file/d/1oq_nSiyCz1hGsiwrJEplGLpnnOTBuB_G/view?usp=sharing
+<Coming soon...>
 
