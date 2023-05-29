@@ -1,2 +1,2 @@
-.__pycache__/
-.build/SoundWave/
+__pycache__/*
+build/SoundWave/*
