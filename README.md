@@ -1,21 +1,21 @@
-<h1 align='center'> SoundWave (still in development)</h1>
-<p align='center'>A python program that downloads and plays music from youtube...</h2>
+<h1 align=center>Soundwave<a href="..."> <img src="https://badgen.net/pypi/license/pip/"></a> <img src="https://img.shields.io/github/v/release/itsmenicky/SoundWave.svg?colorB=58839b"></h1>
+<p align=center>🔉 An application that searches, downloads and plays music from YouTube</p>
+<div align=center><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"></div>
+<img style="border-radius: 10px" src="https://github.com/itsmenicky/SoundWave/blob/main/img/soundwave%20interface.png">
 
-<p align='center'>
-<img border-radius=10px src='https://github.com/itsmenicky/SoundWave/blob/main/img/soundwave interface.png'>
-</p>
-</br>
 
-### 📥 Where is the storage?
-the songs are stored on the C: disk, 'C:/SoundWave/musics'
+### 👨‍💻 Programming Languages
 
-### 💿 How it works?
-When entering the name of the song in the console, the program searches YouTube, downloads the mp4 video, saves it in 'C:/SoundWave/videos, converts the file to mp3 and deletes the video after this process.
+- Python
 
-### ❗️Attention
-As you use the program, errors may occur when downloading the video...this happens because the program returns the first link found in the search, and in this part YouTube may return an ad. If the program happens to close suddenly when you search for some music, just open it again and search for the same music, and then it will work normally.
+### 💡 Features
 
-### Link for download
+- Download
+- Youtube Search 
 
-Coming soon...
+### 🛠 Tools
 
+- MoviePy
+- Pytube
+- Pygame
+- YoutubeSearchPython
